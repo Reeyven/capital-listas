@@ -1,0 +1,13 @@
+# LISTA DE VETADOS DE CAPITAL  (PUBLICA: cualquiera con el enlace puede leerla)
+# Una persona por linea:   Nombre de VRChat ; castigos ; hasta ; motivo
+#   castigos (separados por comas): carcel, silencio, sordo, congelado, destierro, mini carcel, solo staff,
+#            pato, globo, hielo, rincon, trueno, canon, clavado, platanos, silent hill   (si no pones nada: carcel)
+#   hasta:   AAAA-MM-DD (acaba esa noche: 1:00-2:00 hora de Espana)   o   siempre
+#   motivo:  opcional; lo ve el castigado
+# Para PERDONAR a alguien (borra su castigo guardado en todas las instancias):   -Nombre
+# Mayusculas y espacios del nombre dan igual. El staff nunca se castiga.
+# Los cambios tardan unos minutos (GitHub guarda copia ~5 min y el mundo la relee cada 3 min).
+# Ejemplos (quita la # para usarlos):
+# Fulano ; carcel ; 2026-11-01 ; Insultos
+# Mengano ; carcel, silencio ; siempre
+# -Zutano
